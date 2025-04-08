@@ -1,0 +1,155 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\minhk\\OneDrive\\Documents\\Year 2 Semester 2\\COS20007\\Swin-Adventure\\TestIdentifiableObjectProgram\\TestIdentifiableObjectProgram.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\minhk\\OneDrive\\Documents\\Year 2 Semester 2\\COS20007\\Swin-Adventure\\SwinAdventure\\SwinAdventure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\minhk\\OneDrive\\Documents\\Year 2 Semester 2\\COS20007\\Swin-Adventure\\SwinAdventure\\SwinAdventure.csproj",
+        "projectName": "SwinAdventure",
+        "projectPath": "C:\\Users\\minhk\\OneDrive\\Documents\\Year 2 Semester 2\\COS20007\\Swin-Adventure\\SwinAdventure\\SwinAdventure.csproj",
+        "packagesPath": "C:\\Users\\minhk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\minhk\\OneDrive\\Documents\\Year 2 Semester 2\\COS20007\\Swin-Adventure\\SwinAdventure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\minhk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\minhk\\OneDrive\\Documents\\Year 2 Semester 2\\COS20007\\Swin-Adventure\\TestIdentifiableObjectProgram\\TestIdentifiableObjectProgram.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\minhk\\OneDrive\\Documents\\Year 2 Semester 2\\COS20007\\Swin-Adventure\\TestIdentifiableObjectProgram\\TestIdentifiableObjectProgram.csproj",
+        "projectName": "TestIdentifiableObjectProgram",
+        "projectPath": "C:\\Users\\minhk\\OneDrive\\Documents\\Year 2 Semester 2\\COS20007\\Swin-Adventure\\TestIdentifiableObjectProgram\\TestIdentifiableObjectProgram.csproj",
+        "packagesPath": "C:\\Users\\minhk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\minhk\\OneDrive\\Documents\\Year 2 Semester 2\\COS20007\\Swin-Adventure\\TestIdentifiableObjectProgram\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\minhk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\minhk\\OneDrive\\Documents\\Year 2 Semester 2\\COS20007\\Swin-Adventure\\IdentifiableObjectProgram\\IdentifiableObjectProgram.csproj": {
+                "projectPath": "C:\\Users\\minhk\\OneDrive\\Documents\\Year 2 Semester 2\\COS20007\\Swin-Adventure\\IdentifiableObjectProgram\\IdentifiableObjectProgram.csproj"
+              },
+              "C:\\Users\\minhk\\OneDrive\\Documents\\Year 2 Semester 2\\COS20007\\Swin-Adventure\\SwinAdventure\\SwinAdventure.csproj": {
+                "projectPath": "C:\\Users\\minhk\\OneDrive\\Documents\\Year 2 Semester 2\\COS20007\\Swin-Adventure\\SwinAdventure\\SwinAdventure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
