@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zqQJuvmrQ/1zM/ULNomfFDsSYCuMmT++ZR32okLbNcdveRSKn2JrVaYl4lvXXqoGWDlNWtR3YImXUIRPcCz/Mw==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\minhk\\OneDrive\\Documents\\Year 2 Semester 2\\COS20007\\Swin-Adventure\\TestLookCommand\\TestLookCommand.csproj",
+  "dgSpecHash": "2WqFdLmTvr8tWQcYlQcNEE0N9zhDNeM/pTP3xGe7uz/7foBVNpOncwM7Xp8M+0kD5bxoE9V37EdZc5wecUFM3Q==",
+  "success": false,
+  "projectFilePath": "D:\\Swinburne\\Year 2 Semester 2\\COS20007\\Swin-Adventure\\TestLookCommand\\TestLookCommand.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\minhk\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\minhk\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
@@ -18,5 +18,15 @@
     "C:\\Users\\minhk\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512",
     "C:\\Users\\minhk\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\Downloads\\SwinAdventure\\SwinAdventure.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\Downloads\\SwinAdventure\\SwinAdventure.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\minhk\\OneDrive\\Documents\\Year 2 Semester 2\\COS20007\\Swin-Adventure\\SwinAdventure\\SwinAdventure.csproj",
+      "projectUniqueName": "D:\\Swinburne\\Year 2 Semester 2\\COS20007\\Swin-Adventure\\SwinAdventure\\SwinAdventure.csproj",
       "projectName": "SwinAdventure",
-      "projectPath": "C:\\Users\\minhk\\OneDrive\\Documents\\Year 2 Semester 2\\COS20007\\Swin-Adventure\\SwinAdventure\\SwinAdventure.csproj",
+      "projectPath": "D:\\Swinburne\\Year 2 Semester 2\\COS20007\\Swin-Adventure\\SwinAdventure\\SwinAdventure.csproj",
       "packagesPath": "C:\\Users\\minhk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\minhk\\OneDrive\\Documents\\Year 2 Semester 2\\COS20007\\Swin-Adventure\\SwinAdventure\\obj\\",
+      "outputPath": "D:\\Swinburne\\Year 2 Semester 2\\COS20007\\Swin-Adventure\\SwinAdventure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

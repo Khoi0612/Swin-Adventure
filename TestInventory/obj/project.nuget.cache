@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vv+cONYoG1zqBt+/cOojy61lGKjsFl0iFguAximlgfa5okImNnmqvN0MbvIZSAUAAZ0UOwbLIQoHxtwJHNMXTA==",
+  "dgSpecHash": "B2b2P4sy1Zf+vYCrp8CdkUpE8q3nrqqvfY8nk6SM9RWwuocbFt2aj3NoqKfXCOSDmfeN+1+F1XGPQNFeRdj84Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\minhk\\OneDrive\\Documents\\Year 2 Semester 2\\COS20007\\Swin-Adventure\\TestInventory\\TestInventory.csproj",
+  "projectFilePath": "D:\\Swinburne\\Year 2 Semester 2\\COS20007\\Swin-Adventure\\TestInventory\\TestInventory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\minhk\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\minhk\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
